@@ -41,8 +41,8 @@ A simple educational **8-bit microprocessor** built in **Verilog HDL**, featurin
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/EMBEDDED-JUICE/8-bit-Microprocessor.git
-cd 8-bit-Microprocessor
+git clone https://github.com/EMBEDDED-JUICE/8-bit-microprocessor-master.git
+cd 8-bit-microprocessor-master
 ```
 
 ### 2. Simulate (Example with Icarus Verilog)
@@ -66,11 +66,6 @@ vvp cpu_sim
 - Extend ALU with shift/rotate and compare instructions  
 - Add branching/jump logic and a minimal instruction memory  
 - Create a simple assembler and demo programs  
-
----
-
-## 📜 License
-MIT License – free to use and modify for learning and research purposes.
 
 ---
 
